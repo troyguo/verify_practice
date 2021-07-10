@@ -1,4 +1,4 @@
-compile
-	vcs -sverilog top.sv
-run
-	./simv
+compile 
+	vcs -sverilog top.sv 
+run 
+	./simv 
